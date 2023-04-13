@@ -1,0 +1,35 @@
+.abaixo {
+  margin-top: 72px;
+}
+
+.hei {
+  height: 100px;
+}
+.bob {
+  background-image: url("./img/bg-quote.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+  height: 400px;
+}
+.texto-pequeno {
+  font-size: 12px;
+}
+
+.pergunta {
+  border-bottom: 2px solid #f7f7f7;
+}
+.a {
+  text-decoration: none;
+}
+.a:hover {
+  text-decoration: underline;
+}
+.lista-plano li + li {
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.lista-plano li {
+  padding: 16px;
+}
